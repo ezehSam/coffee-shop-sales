@@ -1,7 +1,7 @@
 # coffee-shop sales analysis
 ![](coffee_image.jpg)![](coffee_image.jpg)![](coffee_image.jpg)
 
-INTRODUCTION/PROJECT OVERVIEW
+#INTRODUCTION/PROJECT OVERVIEW
 In the bustling world of retail, understanding customer preferences and sales trends is crucial for optimizing operations and enhancing profitability.The primary aim of this project focuses on analyzing transaction data from three coffee shops located in Lower Manhattan, Astoria and Hell’s Kitchen. In examining this data, we aim to identify trends in customer purchases, popular products, pricing strategies, and the overall sales performance of each store. This analysis will provide valuable insights into customer preferences and help inform future business strategies to enhance customer satisfaction and drive sales growth.
 Data Source
 Coffee Shop Sales raw file.xlsx: This dataset used for this analysis contains detailed transaction records from a coffee shop, including transaction IDs, dates, times, quantities, store locations, product IDs, unit prices, product categories, product types, and product details. The data covers transactions from multiple store locations from January to June 2023. The dataset was provided as an excel file by the company
@@ -67,9 +67,13 @@ Analysis and Summaries with Pivot Tables
 •	This analysis will show the count of transactions and Sum of Revenue per product_type sorted descending by transaction
 
 
+PIVOT TABLE
+
 ![](Capture_pivot.jpg.PNG)
 
 
+
+VISUALIZATION
 
 ![](Dashboard_pic.jpg.PNG)
 
