@@ -66,5 +66,10 @@ Analysis and Summaries with Pivot Tables
 •	Values: Count of Transaction_id, Sum of Revenue
 •	This analysis will show the count of transactions and Sum of Revenue per product_type sorted descending by transaction
 
+
+![](Capture_pivot.jpg.PNG)
+
+
+
 ![](Dashboard_pic.jpg.PNG)
 
